@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 
-
 int deleteEle(int arr[], int n, int x)
 {
 	int i = 0;
