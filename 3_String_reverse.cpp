@@ -7,7 +7,6 @@ void reverse(char name[], int n)
     int high = n - 1;
 
 
-    
     while (low < high)
     {
         swap(name[low++], name[high--]);
