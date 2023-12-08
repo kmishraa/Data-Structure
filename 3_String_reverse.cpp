@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void reverse             (char name[], int n)
+void reverse            (char name[], int n)
 {
     int low = 0;
     int high = n - 1;
