@@ -3,7 +3,7 @@
 using namespace std;
 
 
-void leaders(int arr[], I    nt n)
+void leaders(int arr[], i    nt n)
 {
 	int curr_ldr = arr[n - 1];
 
