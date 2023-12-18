@@ -2,7 +2,7 @@
 #include <cstring>
 using namespace std;
 
-bool checkPalindrome(char a[])
+bool checkPalindrome(char           a[])
 {
     int n = strlen(a);
     int s = 0;
