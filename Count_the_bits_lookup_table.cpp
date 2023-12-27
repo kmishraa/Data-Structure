@@ -3,7 +3,7 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 
-    int table[2    56];
+    int table[2   56];
 	
 	// recursive function to count set bits 
 	void initialize() { 
