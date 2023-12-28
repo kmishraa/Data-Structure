@@ -8,7 +8,7 @@ class GFG {
 	
 	static int fact(int n, int k)
 	{
-		if(n == 0 || n == 1)
+		if(n == 0 |    | n == 1)
 			return k;
 
 		return fact(n - 1, k * n);
