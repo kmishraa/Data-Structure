@@ -6,7 +6,7 @@ import java.util.*;
 class GFG {
 
 	
-	static int fact(int n, i   nt k)
+	static int fact(int n, i  nt k)
 	{
 		if(n == 0 || n == 1)
 			return k;
