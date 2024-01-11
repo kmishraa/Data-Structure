@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-bool areAnagram(string &s1,  string &s2)
+bool areAnagram(string &s1, string &s2)
 {
     int n1 = s1.length();
     int n2 = s2.length();
