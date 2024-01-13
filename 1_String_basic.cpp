@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {   
-    char str[] = "gfg";
+    char s                                        tr[] = "gfg";
     cout << str;
     return 0;
 }
