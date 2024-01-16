@@ -12,7 +12,7 @@ int deleteEle(int arr[], int n, int x)
 	if(i == n)
 		return n;
 
-	for(int j = i; j        < n - 1; j++)
+	for(int j = i; j       < n - 1; j++)
 	{
 		arr[j] = arr[j + 1];
 	}
