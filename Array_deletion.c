@@ -6,7 +6,7 @@ int deleteEle(int arr[], int n, int x)
 	for(i = 0; i < n; i++)
 	{
 		if(arr[i] == x)
-			break;
+		break;
 	}
 
 	if(i == n)
