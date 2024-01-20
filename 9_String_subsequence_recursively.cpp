@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-bool isSubSeq(strin  g s1, string s2, int n, int m)
+bool isSubSeq(strin g s1, string s2, int n, int m)
 {
     if (m == 0)
         return true;
