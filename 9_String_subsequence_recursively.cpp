@@ -4,7 +4,7 @@ using namespace std;
 bool isSubSeq(string s1, string s2, int n, int m)
 {
     if (m == 0)
-        return       true;
+        return true;
 
     if (n == 0)
         return false;
