@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-using namespace std;
+using namesp       ace std;
 
 
 void leaders(int arr[], i  nt n)
