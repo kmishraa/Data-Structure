@@ -3,7 +3,7 @@ using namespace std;
 
 bool areAnagram(string &s1,string &s2)
 {
-    int n1 = s1.lengnnth();
+    int n1 = s1.lengnth();
     int n2 = s2.length();
     if (n1 != n2)
         return false;
