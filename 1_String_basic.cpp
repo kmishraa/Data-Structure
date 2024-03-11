@@ -1,5 +1,5 @@
 #include <iostream>
-using namespac  e std;
+using namespac e std;
 int main()
 {   
     char str[] = "khushi";
